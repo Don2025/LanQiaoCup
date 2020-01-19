@@ -4,7 +4,7 @@ using namespace std;
 #define ms(a,x) memset(a,x,sizeof(a))
 const int maxn = 1e5+1;
 
-int a[maxn];    //Èôa[i]=1ËµÃ÷iÊÇÖÊÊý
+int a[maxn];    //è‹¥a[i]=0è¯´æ˜Žiæ˜¯è´¨æ•°
 vector<int> v;
 
 void getPrime()
